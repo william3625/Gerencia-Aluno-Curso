@@ -1,2 +1,1 @@
-# Gerencia-Aluno-Curso
-Teste Prático VR Software
+Teste pratico VR Software - William Nascimento

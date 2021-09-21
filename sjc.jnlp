@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="localhost">
+
+	<information>
+		<title>Teste Pratico VR</title>
+		<vendor>William Nascimento</vendor>
+	</information>
+	
+	<security>
+	</security>
+	
+	<resources>
+		<j2se version="1.6.0+" initial-heap-size="32m" max-heap-size="256m"/>
+		
+		<jar href="lib/hsqldb-2.2.8.jar" download="eager" />
+		<jar href="lib/log4j-1.2.16.jar" download="eager" />
+		<jar href="lib/swing-jdbc-crud.jar" download="eager" />
+	</resources>
+	<application-desc main-class="br.com.teste.pratico.app.Main" />
+</jnlp>
