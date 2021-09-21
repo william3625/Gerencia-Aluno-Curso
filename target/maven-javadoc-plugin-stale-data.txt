@@ -1,0 +1,74 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/William/.m2/repository/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar;C:/Users/William/.m2/repository/log4j/log4j/1.2.16/log4j-1.2.16.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/William/Downloads/teste-pratico/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/William/Downloads/teste-pratico/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'teste-pratico 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/William/Downloads/teste-pratico/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'teste-pratico 0.0.1-SNAPSHOT API'
+br.com.teste.pratico.app
+br.com.teste.pratico.dao
+br.com.teste.pratico.exception
+br.com.teste.pratico.model
+br.com.teste.pratico.ui.alunos
+br.com.teste.pratico.ui.core
+br.com.teste.pratico.ui.cursos
+br.com.teste.pratico.util
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/app/Main.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/dao/AlunosDAO.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/dao/ConnectionManager.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/dao/CursosDAO.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/exception/PersistenceException.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/model/Aluno.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/model/Curso.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/alunos/AlunosFrame.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/alunos/AlunosTable.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/alunos/AlunosTableModel.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/alunos/BuscaAlunosFrame.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/alunos/EditarAlunosFrame.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/alunos/IncluirAlunosFrame.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/core/HomeFrame.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/core/Menu.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/cursos/BuscaCursoFrame.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/cursos/CursosFrame.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/cursos/CursoTable.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/cursos/CursoTableModel.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/cursos/EditaCursoFrame.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/ui/cursos/IncluirCursoFrame.java'
+'C:/Users/William/Downloads/teste-pratico/src/main/java/br/com/teste/pratico/util/ApplicationProperties.java'
+C:\Users\William\.m2\repository\mysql\mysql-connector-java\5.1.6\mysql-connector-java-5.1.6.jar = 1632186735858
+C:\Users\William\.m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar = 1632093898464
+C:\Users\William\Downloads\teste-pratico\src\main\java = 1632196393510
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\allclasses-frame.html = 1632265294009
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\allclasses-noframe.html = 1632265294012
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\constant-values.html = 1632265293115
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\deprecated-list.html = 1632265294005
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\help-doc.html = 1632265294024
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\index-all.html = 1632265293996
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\index.html = 1632265294015
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\overview-frame.html = 1632265292831
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\overview-summary.html = 1632265294019
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\overview-tree.html = 1632265293948
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\package-list = 1632265292827
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\script.js = 1632265294026
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\serialized-form.html = 1632265293242
+C:\Users\William\Downloads\teste-pratico\target\site\apidocs\stylesheet.css = 1632249303340
